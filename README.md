@@ -1,5 +1,7 @@
 # Analyse de sentiments avec Twitter
 
+## Ahmad ALMAKSOUR
+
 # Description du sujet :
 
 Ce projet était sur le thème de l’analyse de comportements avec Twitter. À l’aide de
