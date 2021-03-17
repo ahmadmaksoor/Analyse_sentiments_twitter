@@ -21,10 +21,10 @@ public class App{
 		this.a=a;
 		ConfigurationBuilder cb = new ConfigurationBuilder();
 		cb.setDebugEnabled(true)
-		.setOAuthConsumerKey("AzgK1voXeIWmBFLKa6uMF13C1")
-		.setOAuthConsumerSecret("PY1OJwUGOsynIc1zCm8C7f07Zok3Dr7l6jsbH7m7ImBB0dvljb")
-		.setOAuthAccessToken("1305467268038635520-mwc0rY3Lf2Zam7mlc049Kp4ZEr011o")
-		.setOAuthAccessTokenSecret("v8XEwErX1g2cjEP55v03aZBtLuqF1lHYRETg5Dfn2iqrZ")
+		.setOAuthConsumerKey("secret")
+		.setOAuthConsumerSecret("secret")
+		.setOAuthAccessToken("secret")
+		.setOAuthAccessTokenSecret("secret")
 		.setTweetModeExtended(true)
 		.setHttpProxyHost("cache-etu.univ-lille1.fr")
 		.setHttpProxyPort(3128);
