@@ -1,6 +1,6 @@
-#Analyse de sentiments avec Twitter
+# Analyse de sentiments avec Twitter
 
-#Description du sujet :
+# Description du sujet :
 
 Ce projet était sur le thème de l’analyse de comportements avec Twitter. À l’aide de
 l’API Twitter, nous devions parvenir à classer différents Tweets recherchés via un mot clé
