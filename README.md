@@ -4,6 +4,9 @@
 
 # Description du sujet :
 
+This project was about sentiments analysis with Twitter. Using the Twitter API, we had to classify different Tweets searched via a keyword according to whether they were 'positive', 'negative' or 'neutral'. Thanks to this, we can determine the percentage of people who have a 'positive', 'negative' or 'neutral' opinion on the Tweets composed of the keyword entered beforehand. The annotation of Tweets can be done using various classification methods. The project was processed in the java programming language. The final result is a graphical interface in which we can enter a keyword, when it is entered we can choose the rating method that will be used, about fifteen rated Tweets will then be displayed. In addition, the percentage of people who have a 'positive', 'negative' or 'neutral' opinion will be displayed. In this project, there is also an experimental analysis part that displays the error rate of each method.
+
+
 Ce projet était sur le thème de l’analyse de comportements avec Twitter. À l’aide de
 l’API Twitter, nous devions parvenir à classer différents Tweets recherchés via un mot clé
 selon si ils sont ‘positifs’, ‘négatifs’ ou ‘neutre’. Grâce à cela, nous pouvons déterminer le
